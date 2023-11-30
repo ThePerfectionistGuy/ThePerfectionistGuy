@@ -5,16 +5,15 @@
 - <b>Selenium WebDriver UI Automation </b>
   - [Banking Domain Testing](https://github.com/ThePerfectionistGuy/SeleniumBankingAutomation/blob/main/README.md)
 - <b>API Testing (REST,SOAP) using -  Postman,ReadyAPI </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [ReadyAPI Sports Network Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Soap)</b></i>
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📖 Education</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>Oakland University - Bachelor of Computer Science <b/>
+- <b>Oakland Comunity College - General Studies/Pre Law <b/>
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -28,8 +27,26 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
+
+
+
+
+
+
+<h2> 📫 How to reach me:</h2> 
+
+ - <b>Email: <b/> Danielbarnett799@yahoo.com
+ - <b>Phone Number: <b/> 313-685-4571
+
+
+
+
+
+
+
+ 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
