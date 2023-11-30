@@ -1,16 +1,11 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/joshmadakor1">QA Test Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Digital Software Innovator</a>, <a href="https://www.youtube.com/c/joshmadakor">Business Analyst</a></h1>
 
 <h2>👨‍💻 QA Automation Test Projects:</h2>
 
 - <b>Selenium WebDriver UI Automation </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Banking Domain Testing](https://github.com/ThePerfectionistGuy/SeleniumBankingAutomation/blob/main/README.md)
 - <b>API Testing (REST,SOAP) using -  Postman,ReadyAPI </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 
 <h2>📺 Popular YouTube Videos</h2>
