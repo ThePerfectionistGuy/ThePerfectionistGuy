@@ -5,7 +5,7 @@
 - <b>Selenium WebDriver UI Automation </b>
   - [Banking Domain Testing](https://github.com/ThePerfectionistGuy/SeleniumBankingAutomation/blob/main/README.md)
 - <b>API Testing (REST,SOAP) using -  Postman,ReadyAPI </b>
-  - [ReadyAPI Sports Network Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Soap)</b></i>
+  - [POSTMAN Sports Network Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(REST)</b></i>
 
 
 <h2>📖 Education</h2>
