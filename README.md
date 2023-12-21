@@ -21,11 +21,16 @@
 <img src="https://img.shields.io/badge/postman-ED8B00?style=for-the-badge&logo=Postman&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git%20Lab-F05032?style=for-the-badge&logo=gitlab&logoColor=white"/>&nbsp;&nbsp;
+<p align="center">
 <img src="https://img.shields.io/badge/MySql-43B02A?style=for-the-badge&logo=Mysql&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Maven-ED8B00?style=for-the-badge&logo=ApacheMaven&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TestNG-D24939?style=for-the-badge&logo=testNG&logoColor=white"/>&nbsp;&nbsp;
+
+
 </p>
 <p align="center"> AI Tools - Co-pilot, ChatGPT
 <p align="center"> API - Postman,SoapUI,RestAssured,Jmeter
-<p align="center"> Programming Languages 
+<p align="center"> Programming Languages - Java 
 <p align="center">Test Management Tool - AzureDevOps(ADO)
 <p align="center">Automation - Selenium, Appium ,  
 <p align="center">Devops - Jenkins, AzureDevOps
