@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/ThePerfectionistGuy">QA Test Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Digital Software Innovator</a>, <a href="https://www.youtube.com/c/joshmadakor">Business Analyst</a></h1>
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/ThePerfectionistGuy">QA Test Engineer</a>, <a href="https://github.com/ThePerfectionistGuy">Digital Software Innovator</a>, <a href="https://github.com/ThePerfectionistGuy">Business Analyst</a></h1>
 
 <h2>👨‍💻 QA Automation Test Projects:</h2>
 
