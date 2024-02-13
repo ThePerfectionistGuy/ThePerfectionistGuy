@@ -1,5 +1,16 @@
 <h1>Hi, I'm Daniel! <br/><a href="https://github.com/ThePerfectionistGuy">QA Test Engineer</a>, <a href="https://github.com/ThePerfectionistGuy">Digital Software Innovator</a>, <a href="https://github.com/ThePerfectionistGuy">Business Analyst</a></h1>
 
+<h1 align="left"> 👋 </h1>
+<div align="center">
+  <img src="https://github.com/gauravkhurana/gauravkhurana/blob/master/images/header.gif" alt="header"/>
+</div>
+
+<h2 align="center"> 👨‍💻 Intro  </h2>
+<p align="center">
+  <samp>Hello! My name is Daniel Barnett. I have 6+ years of experience in IT industry as a Software Tester. Worked in Services based industry ,automotive,SAAS And E-Com. Currently working as QA LEAD for Ancor Automotive. worked  windows .NET based apps for Ecom Company. Used SoapUI, Postman, Java,TestProject,selenium for automation along with Jira and other Visual Aids.I am a fire believer in how you do anything is how you do everything as for me that mean QUALITY. I believe in Beign the best and getting the best in return. So here to share with you what I have learned and have implemented.
+  </samp>
+
+
 <h2>👨‍💻 QA Automation Test Projects:</h2>
 
 - <b>Selenium WebDriver UI Automation </b>
