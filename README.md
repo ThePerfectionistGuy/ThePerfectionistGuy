@@ -7,7 +7,7 @@
 
 <h2 align="center"> 👨‍💻 Intro  </h2>
 <p align="center">
-  <samp>Hello! My name is Daniel Barnett. I have 6+ years of experience in IT industry as a Software Tester. Worked in Services based industry ,automotive,SAAS And E-Com. Currently working as QA LEAD for Ancor Automotive. worked  windows .NET based apps for Ecom Company. Used SoapUI, Postman, Java,TestProject,selenium for automation along with Jira and other Visual Aids.I am a fire believer in how you do anything is how you do everything as for me that mean QUALITY. I believe in Beign the best and getting the best in return. So here to share with you what I have learned and have implemented.
+  <samp>Hello! My name is Daniel Barnett. I have 6+ years of experience in IT industry as a Software Tester. Worked in Services based industry ,automotive,SAAS And E-Com. Currently working as QA LEAD for Ancor Automotive. worked  windows .NET based apps for Ecom Company.I've Used SoapUI, Postman, Java,TestNG,selenium for automation along with Jira and other Visual Aids.I am a firm believer in how you do anything is how you do everything, so as for me that means QUALITY. I believe in Being the best and getting the best in return. So this is here to share with you what I have learned and have implemented.
   </samp>
 
 
