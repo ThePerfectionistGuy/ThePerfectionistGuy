@@ -1,6 +1,5 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/ThePerfectionistGuy">QA Test Engineer</a>, <a href="https://github.com/ThePerfectionistGuy">Digital Software Innovator</a>, <a href="https://github.com/ThePerfectionistGuy">Business Analyst</a></h1>
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/ThePerfectionistGuy"> <h1 align="left"> 👋 </h1>QA Test Engineer</a>, <a href="https://github.com/ThePerfectionistGuy">Digital Software Innovator</a>, <a href="https://github.com/ThePerfectionistGuy">Business Analyst</a></h1>
 
-<h1 align="left"> 👋 </h1>
 <div align="center">
   <img src="https://github.com/gauravkhurana/gauravkhurana/blob/master/images/header.gif" alt="header"/>
 </div>
