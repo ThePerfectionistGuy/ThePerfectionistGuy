@@ -17,7 +17,7 @@
 - <b>API Testing (REST,SOAP) using -  Postman,ReadyAPI </b>
   - [POSTMAN Sports Network Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(REST)</b></i>
 - <b>Mobile Testing  using -  Appium </b>
-  - [Open Soirces Social Media Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Open Source Social Media Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   
 
 
