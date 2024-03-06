@@ -16,6 +16,9 @@
   - [Banking Domain Testing](https://github.com/ThePerfectionistGuy/SeleniumBankingAutomation/blob/main/README.md)
 - <b>API Testing (REST,SOAP) using -  Postman,ReadyAPI </b>
   - [POSTMAN Sports Network Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(REST)</b></i>
+- <b>Mobile Testing  using -  Appium </b>
+  - [Open Soirces Social Media Project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  
 
 
 
@@ -40,7 +43,7 @@
 </p>
 <p align="center"> AI Tools - Co-pilot, ChatGPT
 <p align="center"> API - Postman,SoapUI,RestAssured,Jmeter
-<p align="center"> Programming Languages - Java 
+<p align="center"> Programming Languages - Java,javaScript(Postman)
 <p align="center">Test Management Tool - AzureDevOps(ADO)
 <p align="center">Automation - Selenium, Appium ,  
 <p align="center">Devops - Jenkins, AzureDevOps
